@@ -1,2 +1,2 @@
 # python
-python学习例子
+python学习
